@@ -51,14 +51,10 @@
     flex-direction: column;
     gap: 1.5rem;
     text-transform: uppercase;
-    font-size: 2.5rem;
+    font-size: 4.5rem;
     font-weight: bold;
     color: #f2f2f2;
     text-overflow: inherit;
-}
-
-.hero-text_stroke {
-    font-size: 3.2rem;
 }
 
 .hero-text>div:nth-of-type(3){
