@@ -31,12 +31,12 @@ const Hero = () => {
         {/* Hero Heading */}
         <div className="hero-text">
           <div>
-            <span className='stroke-text '>Freedom  </span>
-            <span>to challenge oneself at every moment</span>
+            <span className='stroke-text hero-text_stroke '>Freedom  </span>
+            <span>to challenge oneself </span>
           </div>
           <div>
-            <span>at every moment</span>
-            <span className='stroke-text '>anywhere</span>
+            <span>at every moment </span>
+            <span className='stroke-text hero-text_stroke'>anywhere</span>
           </div>
           <div className='span'>
             <span>Shape and build your ideal body
