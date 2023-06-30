@@ -3,7 +3,7 @@ import './Footers.css'
 import Github from '../../assets/github.png'
 import Instagram from '../../assets/instagram.png'
 import Linkdin from '../../assets/linkedin.png'
-import Logo from '../../assets/Thify-logo.png'
+import Logo from '../../assets/Thyfit-logo.png'
 
 const Footers = () => {
   return (

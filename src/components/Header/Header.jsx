@@ -1,6 +1,6 @@
 import React from 'react'
 import './Header.css'
-import Logo from '../../assets/Thify-logo.png'
+import Logo from '../../assets/Thyfit-logo.png'
 import Bars from '../../assets/bars.png'
 import {Link} from "react-scroll";
 import { useState } from 'react'
